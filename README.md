@@ -1,2 +1,6 @@
 # PiHole Filter List
- Black and White List for PiHole
+
+### My own PiHole white and blacklist.
+
+## License
+[The Unlicense](https://choosealicense.com/licenses/unlicense/)
